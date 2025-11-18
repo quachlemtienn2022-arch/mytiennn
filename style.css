@@ -1,25 +1,36 @@
-/* Heading 1 */
+
 .heading1 {
     font-size: 48px;
     font-weight: bold;
     text-decoration: underline overline;
+    color: black;
     margin-bottom: 40px;
+
+   
+    text-shadow: 3px 3px 3px rgba(255, 0, 0, 0.4);
 }
 
-/* Heading 2 */
+
 .heading2 {
     font-size: 32px;
     font-style: italic;
-    border: 4px solid yellow;
-    padding: 10px;
-    display: inline-block;
-    margin-bottom: 40px;
+    border: 4px solid gold;
+    padding: 12px 15px;
+    width: fit-content;
+    background-color: white;
+
+  
+    box-shadow: 0 0 4px rgba(0,0,0,0.2);
+    margin-bottom: 50px;
 }
 
-/* Heading 3 */
+
 .heading3 {
     font-size: 28px;
     text-decoration: underline;
+    font-weight: bold;
     text-align: right;
-    margin-right: 40px;
+
+    width: 100%;
+    padding-right: 40px;
 }

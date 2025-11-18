@@ -1,0 +1,25 @@
+/* Heading 1 */
+.heading1 {
+    font-size: 48px;
+    font-weight: bold;
+    text-decoration: underline overline;
+    margin-bottom: 40px;
+}
+
+/* Heading 2 */
+.heading2 {
+    font-size: 32px;
+    font-style: italic;
+    border: 4px solid yellow;
+    padding: 10px;
+    display: inline-block;
+    margin-bottom: 40px;
+}
+
+/* Heading 3 */
+.heading3 {
+    font-size: 28px;
+    text-decoration: underline;
+    text-align: right;
+    margin-right: 40px;
+}
